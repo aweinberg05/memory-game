@@ -1,0 +1,72 @@
+
+body {
+	text-align: center; 
+}
+
+h1{
+	color:rgb(2, 132, 130);
+}
+
+h2{
+	color:#ffd700;
+}
+
+nav {
+	background-color: #808080
+}
+
+#meet{
+	background: white; 
+	color: black;
+	text-align: center; 
+	padding-top: 0; 
+	padding-left: 400px;
+}
+
+a {
+	background-color: #ffbf00; 
+	color: white;
+	padding: 35px; 
+	display: block;
+	float: left;
+}
+
+
+a:hover {
+	background-color: #ee5f3c; 
+}
+
+.clearfix:after {
+	visibility: hidden; 
+	display: block;
+	content:" ";
+	clear: both;
+	height:0;
+	font-size: 0; 
+
+}
+
+.board {
+	height: 80%;
+	width:50%;
+	display: inline-block;
+}
+
+.card {
+	background :yellow; 
+	border-radius: 10px; 
+	height:200px;
+	width: 150px;
+	border: black solid 1px;
+	float: left;
+	margin: 8%; 
+}
+
+.name {
+	color:#ff0000;
+
+}
+
+footer {
+	background-color: #808080; 
+}
