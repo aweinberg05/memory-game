@@ -12,7 +12,7 @@ var CardFour = "king";
 	alert("Sorry, try again.");
 }
 */
-
+//adding comment
 
 var cards = ["queen", "queen", "king", "king"]; 
 function createCards(){
