@@ -1,18 +1,5 @@
 console.log("JS file is connected to HTML! Woo!")
 
-var cardOne = "queen";
-var cardTwo = "queen";
-var CardThree = "king"; 
-var CardFour = "king";
-
-
-/*if(cardOne === cardTwo){
-	alert("You found a match!"); 
-} else {
-	alert("Sorry, try again.");
-}
-*/
-//adding comment
 
 var cards = ["queen", "queen", "king", "king"]; 
 var cardsInPlay = []
